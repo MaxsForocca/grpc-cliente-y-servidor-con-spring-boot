@@ -33,8 +33,10 @@ grpc-cliente-y-servidor-con-spring-boot/
 
 ## Procedimiento para ejecutar
 1. Clonar el repositorio:
+```bash
 git clone https://github.com/MaxsForocca/grpc-cliente-y-servidor-con-spring-boot.git
 cd grpc-cliente-y-servidor-con-spring-boot
+```
 3. Compilar el proyecto:
 mvn clean package
 4. Ejecutar:
