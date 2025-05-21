@@ -8,7 +8,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 - Java 17+
 - Maven 3.8+
-- IDE recomendado: VS Code o IntelliJ IDEA
+- IDE recomendado: VS Code
 - Acceso a Internet para descarga de dependencias
 
 ## Estructura del Proyecto
